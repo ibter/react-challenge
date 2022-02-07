@@ -1,3 +1,16 @@
+To start this web app on your local machine:
+
+1.- Download the zip file
+2.- Extract the zip
+3.- open a console and navigate to the extracted folder
+4.- >npm install react-scripts
+4.- >npm start
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
